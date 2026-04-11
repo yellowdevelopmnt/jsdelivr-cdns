@@ -1,0 +1,45 @@
+{
+  "Assistant1": {
+    "stamina": { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "stack":   { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "speed":   { "value": 2, "level": 1, "maxlevel": 4, "upgradeCost": 150 }
+  },
+  "Assistant2": {
+    "stamina": { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "stack":   { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "speed":   { "value": 2, "level": 1, "maxlevel": 4, "upgradeCost": 150 }
+  },  
+  "Farmer": {
+    "stamina": { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "stack":   { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "speed":   { "value": 2, "level": 1, "maxlevel": 4, "upgradeCost": 150 }
+  }, 
+  "Chef": {
+    "stamina": { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 200 },
+    "stack":   { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 200 },
+    "speed":   { "value": 2, "level": 1, "maxlevel": 4, "upgradeCost": 200 }
+  },     
+  "Cow": {
+    "stamina": { "value": 6, "level": 1, "maxlevel": 4, "upgradeCost": 50 },
+    "stack":   { "value": 4, "level": 1, "maxlevel": 4, "upgradeCost": 50 },
+    "speed":   { "value": 5, "level": 1, "maxlevel": 4, "upgradeCost": 50 }
+  },
+  "Player": {
+    "stack":   { "value": 3, "level": 1, "maxlevel": 4, "upgradeCost": 400 }
+  },
+  "Chicken": {
+    "stamina": { "value": 6, "level": 1, "maxlevel": 4, "upgradeCost": 50 },
+    "stack":   { "value": 4, "level": 1, "maxlevel": 4, "upgradeCost": 50 },
+    "speed":   { "value": 5, "level": 1, "maxlevel": 4, "upgradeCost": 50 }
+  },
+  "Popcorn": {
+    "stamina": { "value": 6, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "stack":   { "value": 4, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "speed":   { "value": 5, "level": 1, "maxlevel": 4, "upgradeCost": 150 }
+  },
+  "Yogurt": {
+    "stamina": { "value": 6, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "stack":   { "value": 4, "level": 1, "maxlevel": 4, "upgradeCost": 150 },
+    "speed":   { "value": 5, "level": 1, "maxlevel": 4, "upgradeCost": 150 }
+  }
+}
