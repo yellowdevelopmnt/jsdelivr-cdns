@@ -1,0 +1,22 @@
+{
+	"DIALOGUE":["That's right, FOOLS!",
+		"It's SUPER SONIC!",
+		"...getting a job at this stupid kids place.",
+		"I know, ridiculous, but if you wanna know why I'm here, simply because...",
+		"Sonic and the freedom pests have been a annoying time dealing with.",
+		"It's to the point they drained enough Chaos Energy out of me to not stand a chance against them.",
+		"Now I'm waiting to recover my energy, by wasting my time working at this so called 'Frickbears.'",
+		"Because I ain't waiting to recover my Chaos Energy by being a sitting duck.",
+		"Why I chose this place of all things you may ask?",
+		"Because compared to those other boring and useless human jobs, this one seems... quite my taste.",
+		"Now, I don't know whole lot bout' this place, but...",
+		"I heard it was said dangerous with it being haunted ghosts or somethin.'",
+		"HAH! Don't be ridiculous.",
+		"A being like me ain't gonna let some 'scary' ghosts make me run away like a coward.",
+		"What are they gonna do? Scare me to death? Ha!",
+		"They'll be dead before they even try.",
+		"Even if they get a grip of me, those idiots should know that I'm INVINCIBLE!",
+		"Anyway, I've yapped your ear off long enough.",
+		"Let me show these 'ghosts' who they're dealin' with. HAHAHA!"],
+		"FIRST_PERSON":"true"
+} 

@@ -1,0 +1,65 @@
+{"DIALOGUE":
+	[
+		["_func",
+			[
+				["addActor", 1, "sTalksprites_Vanny"], 
+				["playMusic", "musMidnight_Vanny", 1], 
+				["fadeMusic", "musMidnight_Vanny", 1, 0]
+			]
+		],
+		
+		["...Oh, you beautiful, BEAUTIFUL little thing, you!", "White Rabbit"],
+		["_func", [["setActor", 3]]],
+		["You really got them...ALL of them...", "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["Oh, I'm so happy, I could KISS you!", "White Rabbit"],
+		["DON'T EVEN TRY.", "Super Sonic"],
+		["_effect", 0, 30, "Shake"],
+		["_func", [["setActor", 3]]],
+		["Hehe, y'know I find it cute when you're angry like that!", "White Rabbit"],
+		["(Great. Just Great.)", "Super Sonic"],
+		["_effect", 0, 25, "Shake"],
+		["...Ugh, anyway, I got you your little 'Family' back. Now where's the reward you've promised, huh?", "Super Sonic"],
+		["_func", [["setActor", 4]]],
+		["...Reward?", "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["OH, right! Teehee, I nearly forgot!", "White Rabbit"],
+		["_func", [["setActor", 6]]],
+		["Yes, yes...I've got all the pieces I need now...I should be able to get it together for you in no time!", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["...If you can give me a day.", "White Rabbit"],
+		["It better be somethin' better than cash.", "Super Sonic"],
+		["(Because if it is something better like a battle, HA! Count me in.)", "Super Sonic"],
+		["_func", [["setActor", 2]]],
+		["Cash? Fahaha, don't make me laugh! It's something WAY better than that!", "White Rabbit"],
+		["_func", [["setActor", 6]]],
+		["Once you get it, you'll feel like your whole life has been leading up to it! It's...it's priceless!", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["I'd even go as far to say it's to DIE for!", "White Rabbit"],
+		["Hoho! Now we're talkin!' I like where this is going.", "Super Sonic"],
+		["_func", [["setActor", 3]]],
+		["Wow, you seems very determined for what I've got prepared.", "White Rabbit"],
+		["_func", [["setActor", 0]]],
+		["If you're that excited, come back here tomorrow, 12 AM. You will NOT wanna miss what I have for you.", "White Rabbit"],
+		["_func",
+			[
+				["removeActor"], 
+				["fadeMusic", "musMidnight_Vanny", 0, 1000]
+			]
+		],
+		
+		["And so, the white rabbit disappeared into the darkness...for what may be the final time.", ""],
+		["The restaurant isn't even open tomorrow...", "Super Sonic"],
+		["...But, ya know me. What's rules gonna do against me? Hahahaha!", "Super Sonic"],
+		["I may hate her, but whatever she's preparing, I'm sure it'll be something I won't regret.", "Super Sonic"],
+		
+		["_split", false, "HasTalbert", true, 
+			[
+				["_money"]
+			],	
+			[
+				["_func", [["night6", "vanny"]]]
+			]
+		]
+	]
+} 

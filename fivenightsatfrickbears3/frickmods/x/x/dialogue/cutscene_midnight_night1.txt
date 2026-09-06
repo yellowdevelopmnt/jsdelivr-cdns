@@ -1,0 +1,40 @@
+{"DIALOGUE":
+	[
+		["WASN'T THAT FUN?", "X"],
+		["I SURE THOUGHT SO.", "X"],
+		["_skip"],
+		["NOW LETS GO, NO TIME TO WA-.", "X"],
+		["_delay", 120],
+		["_func", [["playSound", "sfxPhoneRing", 10, true]]],
+		[". . .", "X"],
+		["_func",
+			[
+				["stopSound", "sfxPhoneRing"],
+				["playSound", "sfxPhonePickup", 10, false]
+			]
+		],
+		["_delay", 120],
+		
+		["Ring ring! Hey, is this stupid thing on?", "The Boss"],
+		["_func", [["playMusic", "musMidnight_TheBoss", 0.5]]],
+		["Hey, stooge! Great work tonight or whatever.", "The Boss"],
+		["Big news! Your good-for-nothing coworker isn't picking up his calls, so it looks like you get to work overtime!", "The Boss"],
+		["OVERTIME? HOW FUN. WHATS NEXT, POLISH YOUR BOOTS?", "X"],
+		["Wow, bit of a tongue on you, eh? You're still getting paid for this, you know.", "The Boss"],
+		["Go to the address I sent you! Some chump will explain the rest when you get there.", "The Boss"],
+		["Good luck or whatever!", "The Boss"],
+		["_skip", true],
+		["FINE, SHOULD BE FU-.", "X"],
+		["That's the spirit, now chop chop!", "The Boss"],
+		["_delay", 120],
+		["_func",
+			[
+				["stopSound", "musMidnight_TheBoss"],
+				["playSound", "sfxPhonePickup", 10, false]
+			]
+		],
+		
+		["LET'S GO, FRIEND, WE GET TO MAKE THINGS MORE.. INTERESTING.", "X"],
+		["_func", [["salvage"]]]
+	]
+} 

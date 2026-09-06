@@ -1,0 +1,42 @@
+{"DIALOGUE":
+	[
+		["Huh, not what I expected from robots before.", "Super Sonic"],
+		["Yet, it was not enough to beat me.", "Super Sonic"],
+		["_skip"],
+		["Pathetic, I was expecting more of a-", "Super Sonic"],
+		["_delay", 120],
+		["_func", [["playSound", "sfxPhoneRing", 10, true]]],
+		["Huh?", "Super Sonic"],
+		["_func",
+			[
+				["stopSound", "sfxPhoneRing"],
+				["playSound", "sfxPhonePickup", 10, false]
+			]
+		],
+		["_delay", 120],
+		
+		["Ring ring! Hey, is this stupid thing on?", "The Boss"],
+		["_func", [["playMusic", "musMidnight_TheBoss", 0.5]]],
+		["Hey, stooge! Great work tonight or whatever.", "The Boss"],
+		["Big news! Your good-for-nothing coworker isn't picking up his calls, so it looks like you get to work overtime!", "The Boss"],
+		["Overtime!? Oh, you must be kidding.", "Super Sonic"],
+		["Bah, quit your whining! You're still getting paid for this.", "The Boss"],
+		["And you're working at my business to recover your little 'Chaos Energy' too you know?", "The Boss"],
+		["...", "Super Sonic"],
+		["Anyways, Go to the address I sent you! Some chump will explain the rest when you get there.", "The Boss"],
+		["Good luck or whatever!", "The Boss"],
+		["_skip", true],
+		["LISTEN YOU! I AM NOT-", "Super Sonic"],
+		["_delay", 120],
+		["_func",
+			[
+				["stopSound", "musMidnight_TheBoss"],
+				["playSound", "sfxPhonePickup", 10, false]
+			]
+		],
+		
+		["...", "Super Sonic"],
+		["Ugh, whatever. this better be worth my time.", "Super Sonic"],
+		["_func", [["salvage"]]]
+	]
+} 

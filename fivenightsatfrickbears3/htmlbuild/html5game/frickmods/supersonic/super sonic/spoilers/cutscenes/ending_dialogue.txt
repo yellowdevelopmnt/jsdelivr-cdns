@@ -1,0 +1,9 @@
+{
+	"DIALOGUE":
+		[
+			"...Listen, kid.",
+			"You gotta move onto greener pastures."
+		],
+	"FIRST_PERSON":"true",
+	"PHOTO_CAPTION":"Super Sonic, Now sticking with his new nickname, Fleetway, finally recovers all of his Chaos energy, returning to get his revenge on Sonic The Hedgehog and the Freedom Fighters."
+} 

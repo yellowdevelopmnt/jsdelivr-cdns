@@ -1,0 +1,1 @@
+Incase you don't know how to add the mod properly, drag the file into the addons folder (Not the extracted zip file or the one with numbers, from inside the extracted folder) and it should work properly.

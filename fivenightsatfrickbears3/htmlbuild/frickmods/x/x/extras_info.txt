@@ -1,0 +1,7 @@
+{
+	"FULL_NAME": "X",
+	"DEV_NOTES": "Created by Reiular!
+VA Bit by Expressly
+Character owned by JoeDoughBoi!\n\nWell, here it is, the big ol revamp update that finally wraps up everything! I enjoyed working on this mod a lot and I'm happy with where it is now to fully say I probably won't come back to it unless another big frickbears update happens that makes me WANT to come back to it So, with that being said, Enjoy it! I know I did.",
+	"DESCRIPTION": "DEBUT: SONIC (2011)\n\nSO. HERE WE ARE AGAIN. YOU CAME BACK, YOU ALWAYS DO. HOW COME? DOES THE PROSPECT OF ME BEING HERE MAKE YOU HAPPY? IS IT SADISTIC PLEASURE? WHAT IS IT THAT MAKES YOU SO ENTHRALLED ABOUT ME THAT YOU HAVE TO SHOEHORN ME INTO EVER LITTLE PIECE OF MEDIA YOU ENJOY? YOU'RE CURIOUS THING. WE'VE PLAYED PLENTY OF TIMES, BUT YOU BEING SO DESPERATE FOR MORE THAT YOU DRAG ME ALONG IS TRULY A SIGHT. WHATEVER YOUR REASON IT BRINGS ME JOY, FRIEND. SO, ARE YOU READY FOR ROUND 2?"
+}

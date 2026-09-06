@@ -1,0 +1,35 @@
+{
+	"player_height": 40,
+	"player_sneak_height": 20,
+	
+	"theme_intro": ["musIntro.ogg", 1],
+	"theme_game_over": ["sfxGameOver.ogg", 1],
+	"theme_victory": ["sfxVictory.ogg", 1],
+	"theme_victory_night5": ["sfxVictory5.ogg", 1],
+	"theme_victory_night6": ["sfxVictory6.ogg", 1],
+	
+	"music_player":
+	[
+		["Grike - Guard Introduction", "musIntro.ogg", 50, "Grike's Theme", "Green Frickbear's", [33.0755, 69.6519]],
+		["Grike - Game Over", "sfxGameOver.ogg", 100, "Grike's Theme", "Green Frickbear's"],
+		["Grike - 6 A.M.", "sfxVictory.ogg", 150, "Grike's Theme", "Green Frickbear's"],
+		["Grike - 6 A.M. (Night 5)", "sfxVictory5.ogg", 200, "Grike's Theme", "Green Frickbear's"],
+		["Grike - 6 A.M. (Night 6)", "sfxVictory6.ogg", 300, "Grike's Theme", "Green Frickbear's"]
+	],
+
+	"maze_rules_poster": [["YOU HUMANS, SO INTERESTING BUT STRANGE.", "X"]],
+	"maze_newspaper_1": [["...Interesting article.", "Grike"]],
+	"maze_newspaper_2": [["...Wait, the robots can do that?", "Grike"]],
+	"maze_newspaper_3": [["...I mean, I guess the new name's a LITTLE funny.", "Grike"]],
+	
+	"upgrade_cadet_story": [["THIS SOUNDS BORING.", "X"],
+		["YOU ASKED FOR A STORY. I AM TELLING YOU A STORY. I DO NOT SEE THE ISSUE.", "Upgrade Cadet"],
+		["I PAID YOU MONEY TO TELL ME A STORY, SOMETHING MORE MY STYLE. I GAVE YOU TWO BUCKS FOR THIS.", "X"],
+		["IT IS A GOOD STORY. ANY ALTERATIONS WOULD DISTRACT FROM ITS MESSAGE.", "Upgrade Cadet"],
+		["YOU'RE BORING ME. HURRY THIS UP.", "X"]],
+	"withered_bonnie": "el erizo divino",
+	"bb_quiz_answer": "Sedistic Pleasure",
+	"helpy": [[". . .", "X"]],
+	"psy_friend_fredbear_house": [["THAT FAT LOSER WANTS ME TO BREAK AND ENTER INTO SOMEONES HOUSE?", "X"]],
+	"dreadbear": [["YOU! WEIRD BLUE HEDGEHOG", "Dreadbear"]]
+}

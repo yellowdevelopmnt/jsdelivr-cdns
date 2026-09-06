@@ -1,0 +1,9 @@
+{
+	"new_cassidy_dialogue": "true",
+	
+	"molten_freddy": [["Pft, what kind of trash-heap are you supposed to be?", "Super Sonic"]],
+	"circus_baby": [["_skip"], ["Yeah no, I'm not-", "Super Sonic"]],
+	"animdude": [["...?", "Super Sonic"], ["Nice glow dude.", "Animdude"], ["Yeah sure, whatever.", "Super Sonic"]],
+	"popgoes": [["If I did, would that make you myPOPGOES or whatever?", "Super Sonic"]],
+	"rodney": [["...Big name? Yeah, alright whatever you say, like I even care who you are.", "Super Sonic"]]
+}

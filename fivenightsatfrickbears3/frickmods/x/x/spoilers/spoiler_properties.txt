@@ -1,0 +1,9 @@
+{
+	"new_cassidy_dialogue": "true",
+	
+	"molten_freddy": [["OH, I LIKE YOU! WHAT MIGHT YOU BE, FRIEND?", "X"]],
+	"circus_baby": [["_skip"], ["DON'T PUT WORDS IN MY MOUTH, YOU'LL RE-", "X"]],
+	"animdude": [["HELLO, YOU.", "X"], ["Oh, It's you.", "Animdude"], ["IN THE FLESH.", "X"]],
+	"popgoes": [["... ''DUDE'' ARE YOU CONSTANTLY GOING TO MAKE REFERENCES?", "X"]],
+	"rodney": [["YOU'RE A NOBODY, PEST.", "X"]]
+}

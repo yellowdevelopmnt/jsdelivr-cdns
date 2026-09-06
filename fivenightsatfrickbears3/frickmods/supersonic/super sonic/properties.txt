@@ -1,0 +1,38 @@
+{
+	"player_height": 48,
+	"player_sneak_height": 16,
+	
+	"theme_intro": ["musIntro.ogg", 1],
+	"theme_game_over": ["sfxGameOver.ogg", 1],
+	"theme_victory": ["sfxVictory.ogg", 1],
+	"theme_victory_night5": ["sfxVictory5.ogg", 1],
+	"theme_victory_night6": ["sfxVictory6.ogg", 1],
+	
+	"music_player":
+	[
+		["Grike - Guard Introduction", "musIntro.ogg", 50, "Grike's Theme", "Green Frickbear's", [33.0755, 69.6519]],
+		["Grike - Game Over", "sfxGameOver.ogg", 100, "Grike's Theme", "Green Frickbear's"],
+		["Grike - 6 A.M.", "sfxVictory.ogg", 150, "Grike's Theme", "Green Frickbear's"],
+		["Grike - 6 A.M. (Night 5)", "sfxVictory5.ogg", 200, "Grike's Theme", "Green Frickbear's"],
+		["Grike - 6 A.M. (Night 6)", "sfxVictory6.ogg", 300, "Grike's Theme", "Green Frickbear's"]
+	],
+
+	"maze_rules_poster": [["HAH! Like rules can stop me!", "Super Sonic"],
+		["But that fourth one? Eugh.", "Super Sonic"],
+		["I know that I'm evil and whatever.", "Super Sonic"],
+		["But that just fits more into weird side instead, honestly.", "Super Sonic"]],
+	"maze_newspaper_1": [["...Huh, interesting. Anyways.", "Super Sonic"]],
+	"maze_newspaper_2": [["...So the robots can do that, huh? That's new.", "Super Sonic"]],
+	"maze_newspaper_3": [["...Yeah, really funny name. Like I couldn't come up with a funnier name for this dump.", "Super Sonic"]],
+	
+	"upgrade_cadet_story": [["Ugh, this is just a boring kids fairytale. Can you tell anything better than this crap?", "Super Sonic"],
+		["YOU ASKED FOR A STORY. I AM TELLING YOU A STORY. I DO NOT SEE THE ISSUE.", "Upgrade Cadet"],
+		["I paid my useless money for this, dumbot! At least tell an good story before I get bored.", "Super Sonic"],
+		["IT IS A GOOD STORY. ANY ALTERATIONS WOULD DISTRACT FROM ITS MESSAGE.", "Upgrade Cadet"],
+		["Fine, whatever, get it over with.", "Super Sonic"]],
+	"withered_bonnie": "británico y pequeño limo amarillo",
+	"bb_quiz_answer": "Recover Energy.",
+	"helpy": [["...Yeah, nope, I ain't-", "Super Sonic"]],
+	"psy_friend_fredbear_house": [["What? You want me to roast this house that belongs to some random guy or something?", "Super Sonic"]],
+	"dreadbear": [["YOU! YELLOW GLOWING CREATURE!", "Dreadbear"]]
+}

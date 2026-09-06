@@ -1,0 +1,62 @@
+{"DIALOGUE":
+	[
+		["...I swear I'm making big mistake.", "Super Sonic"],
+		["_func",
+			[
+				["addActor", 1, "sTalksprites_Vanny"], 
+				["playMusic", "musMidnight_Vanny", 1], 
+				["fadeMusic", "musMidnight_Vanny", 1, 0]
+			]
+		],
+		
+		["Well, well, well! Look at you, you little lunatic! You actually pulled through!", "White Rabbit"],
+		["_func", [["setActor", 2]]],
+		["Mweeheehee, I was honestly expecting you to flake on me... I guess you must be some sorta masochist, huh?", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["Don't worry, don't worry... I like that about you.", "White Rabbit"],
+		["Whatever. The robots can't do nothing on me, anyways.", "Super Sonic"],
+		["Also, I'm not doing this for you, I'm just taking this as an opportunity to make these shifts, more of my taste.", "Super Sonic"],
+		["_func", [["setActor", 2]]],
+		["Well, isn't that nice to hear, huh?", "White Rabbit"],
+		["_func", [["setActor", 0]]],
+		["But, the animatronics, it's not just that. I'm more referring to everything else that's gone on here!", "White Rabbit"],
+		["Everything else? What more nonsense are you're talking about?", "Super Sonic"],
+		["_func", [["setActor", 2]]],
+		["...Oh. Right. I forgot you were new here.", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["Y'know, you REALLY should do more research before working with someone...I know I have! But I know you're not that type of guy to do so.", "White Rabbit"],
+		["Oh, alright. If you're going to say that, then I suggest you start explaining things before things don't get pretty, Mrs. Obvious twist-villian.", "Super Sonic"],
+		["_func", [["setActor", 1]]],
+		["Oh no, I wouldn't do that type of stuff, I'd LOVE to tell ya!", "White Rabbit"],
+		["_func", [["setActor", 2]]],
+		["...It'll have to wait for tomorrow, though.", "White Rabbit"],
+		["_func", [["setActor", 3]]],
+		["After all, we both have work to do, don't we?", "White Rabbit"],
+		["Fine, but if I end up regretting this, just let me remind you, I'll make sure you regret it too.", "Super Sonic"],
+		["_func", [["setActor", 0]]],
+		["Wow, so threatening! Have no worries, I'm sure that the surprise will satisfy you in the end!", "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["Carrot-and-stick, my friend! What fun is a task if you don't have a prize waiting for you at the end?", "White Rabbit"],
+		["Carrot... and stick?", "Super Sonic"],
+		["_func", [["setActor", 4]]],
+		["...Huh?", "White Rabbit"],
+		["_func", [["setActor", 2]]],
+		["...Oh, nothing, nothing! I think I just used the wrong saying there, mweehee...", "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["Either way, I'll see you tomorrow. Don't let me down~!", "White Rabbit"],
+		["_func", [["setActor", 3]]],
+		["Also I love how fluffy you were last night!", "White Rabbit"],
+		["_func",
+			[
+				["removeActor"], 
+				["fadeMusic", "musMidnight_Vanny", 0, 1000]
+			]
+		],
+		
+		["And so, the white rabbit disappeared into the darkness yet again.", ""],
+		["...DID SHE HAVE THE ABSOLUTE GUTS, TO CALL ME FLUFFY?!", "Super Sonic"],
+		["_effect", 0, 125, "Shake"],
+		["...'sigh', Whatever, I've got more important matters.", "Super Sonic"],
+		["_func", [["salvage"]]]
+	]
+} 
